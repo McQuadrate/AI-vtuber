@@ -1,4 +1,6 @@
 # AI-vtuber
+Created using the openai api
+
 Receives messages from the chat stream on YouTube and responds to them.
 
 Works in conjunction with OBS and applications like VTube Studio.
