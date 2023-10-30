@@ -1,5 +1,5 @@
 # AI-vtuber
-Created using the openai api
+Created using the openai api (ChatGPT and Whisper)
 
 Receives messages from the chat stream on YouTube and responds to them.
 
